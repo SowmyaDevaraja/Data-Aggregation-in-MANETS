@@ -14,5 +14,5 @@
 # census-nodeinfo.cc :
 # In this file,
 # Dividing the network into cells is handled.
-# Result broadcast to neighbors is handled
+# Result broadcast to neighbors is handled.
 # Termination of data aggregation in the network.

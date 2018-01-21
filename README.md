@@ -12,7 +12,7 @@
 # Reply phase - Token is handed to one of the nodes in the vicinity.
 
 # census-nodeinfo.cc :
-# In this file,
+# In this file
 # Dividing the network into cells is handled.
 # Result broadcast to neighbors is handled.
 # Termination of data aggregation in the network.
